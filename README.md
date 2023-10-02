@@ -1,4 +1,4 @@
-## Olà, como você estar ?
+## Olà, como você estar ? 😊
 
  <div>
    <a href="https://github.com/lkauanF">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Minhas redes de contatos 
  
 <div> 
 
