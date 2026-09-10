@@ -91,12 +91,12 @@ Atualmente, busco evoluir continuamente meus conhecimentos em **engenharia de so
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=github_dark"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark"
 />
 
 </div>
