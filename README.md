@@ -85,27 +85,6 @@ Atualmente, busco evoluir continuamente meus conhecimentos em **engenharia de so
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
-
----
 
 ## 📈 Gráfico de contribuições
 
