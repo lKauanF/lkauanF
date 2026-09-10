@@ -90,13 +90,7 @@ Atualmente, busco evoluir continuamente meus conhecimentos em **engenharia de so
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=github_dark"
-/>
-
-<img
-  height="180em"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark"
 />
 
 </div>
